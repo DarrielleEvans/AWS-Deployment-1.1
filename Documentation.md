@@ -1,7 +1,7 @@
 # Deployment 1.1
 The files in this repository will be tested on the Jenkins Server and deployed in an AWS Elastic Beanstalk EC2.
 
-##Step 1
+## Step 1
 Provided the Github URL in the Jenkins pipeline setup and built the Pipeline.
 <img width="1320" alt="Jenkins Build" src="https://github.com/DarrielleEvans/AWS-Deployment-1.1/assets/89504317/bb37004a-6c08-4fbb-aa83-d8ccf2d93ec1">
 The stage and test was successful.
