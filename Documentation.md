@@ -1,5 +1,5 @@
 # Deployment 1.1
-The files in this repository will be tested on the Jenkins Server and deployed in an AWS Elastic Beanstalk EC2.
+* The files in this repository will be tested on the Jenkins Server and deployed in an AWS Elastic Beanstalk EC2.
 
 ## Step 1
 Provided the Github URL in the Jenkins pipeline setup and built the Pipeline.
