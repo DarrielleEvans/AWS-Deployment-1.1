@@ -11,7 +11,7 @@
 <img width="1287" alt="Deployment 1 1 Degraded" src="https://github.com/DarrielleEvans/AWS-Deployment-1.1/assets/89504317/af2b6f46-8c98-4f78-a87f-b3e81c925dbd">
 * The deloyment received a degraded health check.
 * In order to assess the errors, I downloaded the last 100 logs.
-** After placing the error in Chatgpt, I realized the app.py file was named incorrectly and throwing an error.
+* After placing the error in Chatgpt, I realized the app.py file was named incorrectly and throwing an error.
 
 
 ## Step 3
